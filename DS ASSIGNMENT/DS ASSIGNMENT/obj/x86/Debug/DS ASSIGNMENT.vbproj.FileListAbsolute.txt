@@ -1,0 +1,35 @@
+C:\Users\Thaphiwa\Desktop\DONE\DS ASSIGNMENT\DS ASSIGNMENT\bin\Debug\DS ASSIGNMENT.exe
+C:\Users\Thaphiwa\Desktop\DONE\DS ASSIGNMENT\DS ASSIGNMENT\bin\Debug\DS ASSIGNMENT.pdb
+C:\Users\Thaphiwa\Desktop\DONE\DS ASSIGNMENT\DS ASSIGNMENT\bin\Debug\DS ASSIGNMENT.xml
+C:\Users\Thaphiwa\Desktop\DONE\DS ASSIGNMENT\DS ASSIGNMENT\bin\Debug\MySql.Data.dll
+C:\Users\Thaphiwa\Desktop\DONE\DS ASSIGNMENT\DS ASSIGNMENT\obj\x86\Debug\DS_ASSIGNMENT.Resources.resources
+C:\Users\Thaphiwa\Desktop\DONE\DS ASSIGNMENT\DS ASSIGNMENT\obj\x86\Debug\DS ASSIGNMENT.vbproj.GenerateResource.Cache
+C:\Users\Thaphiwa\Desktop\DONE\DS ASSIGNMENT\DS ASSIGNMENT\obj\x86\Debug\DS ASSIGNMENT.exe
+C:\Users\Thaphiwa\Desktop\DONE\DS ASSIGNMENT\DS ASSIGNMENT\obj\x86\Debug\DS ASSIGNMENT.xml
+C:\Users\Thaphiwa\Desktop\DONE\DS ASSIGNMENT\DS ASSIGNMENT\obj\x86\Debug\DS ASSIGNMENT.pdb
+C:\Users\Thaphiwa\Desktop\DONE\DS ASSIGNMENT\DS ASSIGNMENT\obj\x86\Debug\DS_ASSIGNMENT.AdminForm.resources
+C:\Users\Thaphiwa\Desktop\DONE\DS ASSIGNMENT\DS ASSIGNMENT\obj\x86\Debug\DS_ASSIGNMENT.LoginForm.resources
+C:\Users\Thaphiwa\Desktop\DONE\DS ASSIGNMENT\DS ASSIGNMENT\obj\x86\Debug\DS_ASSIGNMENT.RegisterStudentForm.resources
+C:\Users\Thaphiwa\Desktop\DONE\DS ASSIGNMENT\DS ASSIGNMENT\obj\x86\Debug\DS_ASSIGNMENT.StudentsForm.resources
+C:\Users\Thaphiwa\Desktop\DONE\DS ASSIGNMENT\DS ASSIGNMENT\obj\x86\Debug\DS_ASSIGNMENT.UpdateStudentForm.resources
+C:\Users\Thaphiwa\Desktop\DONE\DS ASSIGNMENT\DS ASSIGNMENT\obj\x86\Debug\DS_ASSIGNMENT.AddTeacherForm.resources
+C:\Users\Thaphiwa\Desktop\DONE\DS ASSIGNMENT\DS ASSIGNMENT\obj\x86\Debug\DS_ASSIGNMENT.FinanceUpdateForm.resources
+C:\Users\Thaphiwa\Desktop\DONE\DS ASSIGNMENT\DS ASSIGNMENT\obj\x86\Debug\DS_ASSIGNMENT.MarkCaptureForm.resources
+C:\Users\Thaphiwa\Desktop\DONE\DS ASSIGNMENT\DS ASSIGNMENT\obj\x86\Debug\DS ASSIGNMENT.vbprojResolveAssemblyReference.cache
+C:\Users\Tapiwa\Documents\Hp laptop\DONE\New folder\DS ASSIGNMENT\DS ASSIGNMENT\obj\x86\Debug\DS ASSIGNMENT.exe
+C:\Users\Tapiwa\Documents\Hp laptop\DONE\New folder\DS ASSIGNMENT\DS ASSIGNMENT\obj\x86\Debug\DS ASSIGNMENT.xml
+C:\Users\Tapiwa\Documents\Hp laptop\DONE\New folder\DS ASSIGNMENT\DS ASSIGNMENT\obj\x86\Debug\DS ASSIGNMENT.pdb
+C:\Users\Tapiwa\Documents\Hp laptop\DONE\New folder\DS ASSIGNMENT\DS ASSIGNMENT\bin\Debug\DS ASSIGNMENT.exe
+C:\Users\Tapiwa\Documents\Hp laptop\DONE\New folder\DS ASSIGNMENT\DS ASSIGNMENT\bin\Debug\DS ASSIGNMENT.pdb
+C:\Users\Tapiwa\Documents\Hp laptop\DONE\New folder\DS ASSIGNMENT\DS ASSIGNMENT\bin\Debug\DS ASSIGNMENT.xml
+C:\Users\Tapiwa\Documents\Hp laptop\DONE\New folder\DS ASSIGNMENT\DS ASSIGNMENT\obj\x86\Debug\DS ASSIGNMENT.vbprojResolveAssemblyReference.cache
+C:\Users\Tapiwa\Documents\Hp laptop\DONE\New folder\DS ASSIGNMENT\DS ASSIGNMENT\obj\x86\Debug\DS_ASSIGNMENT.AddTeacherForm.resources
+C:\Users\Tapiwa\Documents\Hp laptop\DONE\New folder\DS ASSIGNMENT\DS ASSIGNMENT\obj\x86\Debug\DS_ASSIGNMENT.AdminForm.resources
+C:\Users\Tapiwa\Documents\Hp laptop\DONE\New folder\DS ASSIGNMENT\DS ASSIGNMENT\obj\x86\Debug\DS_ASSIGNMENT.FinanceUpdateForm.resources
+C:\Users\Tapiwa\Documents\Hp laptop\DONE\New folder\DS ASSIGNMENT\DS ASSIGNMENT\obj\x86\Debug\DS_ASSIGNMENT.LoginForm.resources
+C:\Users\Tapiwa\Documents\Hp laptop\DONE\New folder\DS ASSIGNMENT\DS ASSIGNMENT\obj\x86\Debug\DS_ASSIGNMENT.MarkCaptureForm.resources
+C:\Users\Tapiwa\Documents\Hp laptop\DONE\New folder\DS ASSIGNMENT\DS ASSIGNMENT\obj\x86\Debug\DS_ASSIGNMENT.Resources.resources
+C:\Users\Tapiwa\Documents\Hp laptop\DONE\New folder\DS ASSIGNMENT\DS ASSIGNMENT\obj\x86\Debug\DS_ASSIGNMENT.RegisterStudentForm.resources
+C:\Users\Tapiwa\Documents\Hp laptop\DONE\New folder\DS ASSIGNMENT\DS ASSIGNMENT\obj\x86\Debug\DS_ASSIGNMENT.StudentsForm.resources
+C:\Users\Tapiwa\Documents\Hp laptop\DONE\New folder\DS ASSIGNMENT\DS ASSIGNMENT\obj\x86\Debug\DS_ASSIGNMENT.UpdateStudentForm.resources
+C:\Users\Tapiwa\Documents\Hp laptop\DONE\New folder\DS ASSIGNMENT\DS ASSIGNMENT\obj\x86\Debug\DS ASSIGNMENT.vbproj.GenerateResource.Cache
